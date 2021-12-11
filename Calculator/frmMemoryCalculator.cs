@@ -257,17 +257,7 @@ namespace Calculator
                 MessageBox.Show("You caused an error...");
             }
         }
-
-
-
-
-
-
-        //Memory Calc Additions below...
-        //it helped that i had all the above done and working without bugs.
-        //I placed the additions here to hopefuly help see the additions to the program.
-
-        
+ 
         private void btnMemoryClear_Click(object sender, EventArgs e)
         {
             //uses the memory clear method from the new memory calc class.
